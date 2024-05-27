@@ -56,4 +56,4 @@ m_robotDrive.driveCartesian(-leftYaxis, -rightXaxis, leftXaxis, gyroRotation2D);
 ```
 ekleyerek kodumu tamamlıyorum.
 
-Bu örnekte algılamayı öğrendiğimiz Apriltagleri robot kodumuza eklemeyi öğrendik, ufak bir de proje gerçekleştirdik. Joystick, motor kontrolcüsü gibi değişkenleri tanımlamayı bir önceki linkte gösterdiğim, siz de o soruyu sorarak bir nevi bildiğinizi kabul ettiğiniz için göstermedim.
+Bu örnekte algılamayı öğrendiğimiz Apriltagleri robot kodumuza eklemeyi öğrendik, ufak bir de proje gerçekleştirdik. Joystick, motor kontrolcüsü gibi değişkenleri tanımlamayı bir önceki linkte gösterdiğim, siz de o soruyu sorarak bir nevi bildiğinizi kabul ettiğiniz için göstermedim. Bu kodun tam hâlini "GoruntuİslemeJava" dosyası içinde bulabilirsiniz.
