@@ -27,7 +27,7 @@ tarzı bir ifade eklemeniz, robotunuza Apriltag yokken ne yapmasını söylerek 
 Pratik yapmak ve belge okumak çok önemlidir. Ne kadar fazla tecrübe edinirseniz yapılacak hatalara karşı çözüm bulma imkanınız o kadar artar.
 
 # Renkli Cisim Algılamada Yaşanabilecek Sıkıntılar
-Renkli cisim algılama, pek fazla sıkıntı yaşayabileceğiniz bir alan değildir. PhotonVision kısmında algılama için kod yazmanıza gerek olmadığından, hem PhotonVision kaynaklı hem de kendi kodunuzu yazdı iseniz oradaki muhtemel sorunlara değineceğim.
+Renkli cisim algılama, pek fazla sıkıntı yaşayabileceğiniz bir alan değildir. PhotonVision kısmında algılama için kod yazmanıza gerek olmadığından, aklıma gelen muhtemel sorunlara değineceğim.
 
 Eğer Photonvisionda algılamak istediğiniz dışındaki renkler de o cisim olarak algılanıyorsa, algılanacak minimum piksel alanını değiştirebilirsiniz, böylece eğer algılayacağınız cisim hatalı algılanan cisme göre görece büyükse bu sorun ortadan kalkar. Minimum algılanma alanını, herhangi bir karışıklık olmasa bile o renkteki 1-2 piksellik alanların algılanmaması için ufak bir değere atamanız gereklidir. Ancak eğer ilk bahsettiğim bir durumdaki gibi karışıklık sebebiyle yapıyorsanız, bu belli bir mesafeden nesnenizin kapladığı piksel alanının azalması ve algılanmaması anlamında gelir. Hem renk olarak hem şekil olarak aynı ancak boyut olarak farklı iki cisminiz varsa ve uzaktaki cisimleri de algılamanız gerekiyorsa, maaleseff renkli cisim algılamayı daha fazla kullanamazsınız, obje algılamayı kullanmanız gerekir. 
 
